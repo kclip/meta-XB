@@ -1,0 +1,1 @@
+python ../../../../../main_classification_toy.py --exp_mode 'miniimagenet' --NC_mode 'maml_original'   --set_prediction_mode 'JK+mm'  --meta_learning_coeff_for_CE_regul 0.9  --alpha_TN_init 1.0

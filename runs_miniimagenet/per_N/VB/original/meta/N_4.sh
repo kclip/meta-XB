@@ -1,0 +1,1 @@
+python ../../../../../main_classification_toy.py --exp_mode 'miniimagenet' --NC_mode 'maml_original'   --set_prediction_mode 'auxiliary_few_shot_meta'  --alpha_TN_init 1.0

@@ -1,0 +1,1 @@
+python ../../../../../main_classification_toy.py --NC_mode 'maml_original'   --set_prediction_mode 'JK+mm'  --num_total_tasks_meta 100000
